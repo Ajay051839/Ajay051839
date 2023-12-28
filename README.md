@@ -10,7 +10,6 @@
 <img src="Icons/top right.gif" width="450px" height="300px" alt=gif align="right" > 
 <ul>
 <li> 🎓 Pursuing my Bachelors in Electronics and Communication Engineering from NIT Allahabad (MNNIT)<br></li>
-            <li> 🔭 Presently I am learning <b>DSA</b><br></li>
             <li> 🔭 Aspiring Software Engineer<br></li> 
             <li> 🔭 Web Developer<br></li>
             <li> 🤔 I’m looking for collaborations in Open Source Projects<br></li>
