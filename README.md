@@ -23,7 +23,7 @@
 <!-- <a target="blank" href="https://twitter.com/"><img src="twitter.png" alt="twitter" width="10%" style="padding:0px"/></a> -->
 <a target="blank" href="https://www.linkedin.com/in/ajay-patel-60253820a/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" width="10%" style="padding:0px"/></a>
 <a href="mailto:ajaypatelkota@gmail.com"><img src="https://img.icons8.com/bubbles/344/gmail.png" width="10%" style="padding:0px"/></a>
-<a target="blank" href="https://www.instagram.com/_ajay05._/"><img src="instagram.png" alt="instagram" width="10%" style="padding:0px"/></a>
+<a target="blank" href="https://www.instagram.com/_ajay05._/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="instagram" width="10%" style="padding:0px"/></a>
 </p>
  
 ## 🛠 Tools and Tech Stack
