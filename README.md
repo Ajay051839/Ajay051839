@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=AshishSharma1203&color=blueviolet&label=Profile+Views" alt="rocker2102" />
 <h1 align='center'> Hey there..<img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif"  width="40" height="40"> I'm Ajay Patel</h1>
 
-<h3 align="center"> Converting  Caffeine  <img src="Icons/icons8-coffee-cup.gif" width ="40" height="40">  to Code <img src="Icons/icons8-developer.gif" width ="30px"> & Documenting what I Learnt <img src="https://thumbs.gfycat.com/AgedBothIndri.webp" width ="50px" >  </h3>
+<h3 align="center"> Converting  Caffeine  <img src="" width ="40" height="40">  to Code <img src="Icons/icons8-developer.gif" width ="30px"> & Documenting what I Learnt <img src="https://thumbs.gfycat.com/AgedBothIndri.webp" width ="50px" >  </h3>
 
 
 
@@ -21,7 +21,7 @@
 
 <p align="center">            
 <!-- <a target="blank" href="https://twitter.com/"><img src="twitter.png" alt="twitter" width="10%" style="padding:0px"/></a> -->
-<a target="blank" href="https://www.linkedin.com/in/ajay-patel-60253820a/"><img src="linkedin.png" alt="linkedin" width="10%" style="padding:0px"/></a>
+<a target="blank" href="https://www.linkedin.com/in/ajay-patel-60253820a/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" width="10%" style="padding:0px"/></a>
 <a href="mailto:ajaypatelkota@gmail.com"><img src="https://img.icons8.com/bubbles/344/gmail.png" width="10%" style="padding:0px"/></a>
 <a target="blank" href="https://www.instagram.com/_ajay05._/"><img src="instagram.png" alt="instagram" width="10%" style="padding:0px"/></a>
 </p>
