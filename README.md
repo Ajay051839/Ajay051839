@@ -9,11 +9,11 @@
 ## 🚀 About Me
 <img src="Icons/top right.gif" width="450px" height="300px" alt=gif align="right" > 
 <ul>
-<li> 🎓 Pursuing my Bachelors in Electronics and Communication Engineering from NIT Allahabad (MNNIT)<br></li>
-            <li> 🔭 Aspiring Software Engineer<br></li> 
+<li> Software Engineer at Visa <br></li>
+            <li>🎓 Completed my Bachelors in Electronics and Communication Engineering from NIT Allahabad (MNNIT)<br></li>
             <li> 🔭 Web Developer<br></li>
-            <li> 🤔 I’m looking for collaborations in Open Source Projects<br></li>
-            <li> 💬 Talk to me about DSA , Web development , Hackathons , Open Source, Tech news<br></li>  
+            <li> 🤔 Currently working on ASP.Net Core and WPF- C#/MVVM Projects<br></li>
+            <li> 💬 Talk to me about DSA , Web development , Artificial Intelligence, Open Source, Tech news<br></li>  
             <li> 📫 How to reach me?**ajaypatelkota@gmail.com**<br></li>
  </ul>
 
