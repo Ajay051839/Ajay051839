@@ -1,4 +1,4 @@
-<h3 align="center"> Converting Caffeine <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Coffee_cup_icon.svg" width="40" height="40"> to Code and documenting what I Learnt <img src="https://media.giphy.com/media/26FPnsRww8ZzbHVn2/giphy.gif" width="50px"> </h3>
+<h3 align="center"> Converting Caffeine <img src="https://cdn-icons-png.flaticon.com/512/2933/2933884.png" width="40" height="40"> to Code and documenting what I Learnt <img src="https://media.giphy.com/media/26FPnsRww8ZzbHVn2/giphy.gif" width="50px"> </h3>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Ajay051839&color=blueviolet&label=Profile+Views" alt="profile-views" />
 
