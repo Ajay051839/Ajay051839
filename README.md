@@ -1,22 +1,26 @@
-<h3 align="center"> Converting Caffeine <img src="https://cdn-icons-png.flaticon.com/512/2933/2933884.png" width="40" height="40"> to Code and documenting what I Learnt <img src="https://media.giphy.com/media/26FPnsRww8ZzbHVn2/giphy.gif" width="50px"> </h3>
+<h3 align="center"> ☕ Converting caffeine to code & bugs into undocumented features <img src="https://media.giphy.com/media/26FPnsRww8ZzbHVn2/giphy.gif" width="50px"> </h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXFpZ3R6cnA4dzZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Jm9mZj1n/3o7TKMGpx4YqhK596M/giphy.gif" width="300">
+</p>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Ajay051839&color=blueviolet&label=Profile+Views" alt="profile-views" />
 
-<h1 align='center'> Hey there..<img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" width="40" height="40"> I'm Ajay</h1>
+<h1 align='center'> <img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" width="40" height="40"> Error 404: Sleep Not Found. I'm Ajay!</h1>
 
-## 🚀 About Me
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" height="300px" alt="coding-gif" align="right"> 
+## 🚀 The Mission Brief
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHByM3R3eXhpNXA0eGZueXFpZ3R6cnA4dzZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Jm9mZj1n/SWoRKslxGqDqE/giphy.gif" width="380px" align="right"> 
 
 <ul>
-<li>💼 Software Engineer at Visa</li>
-<li>🎓 Graduated from MNNIT Allahabad in 2024</li>
-<li>💻 Experienced in ASP.Net Core, WPF (C#/MVVM) and actively working with Java Spring Boot</li>
-<li>🌱 Currently scaling E-commerce Microservices and RESTful Backend systems</li>
-<li>💬 Talk to me about DSA, Spring Security, System Design, and Tech News</li>  
-<li>📫 Reach me at: ajaypatel20205014@gmail.com </li>
+  <li>💼 <b>Software Engineer at Visa</b> (I don't make the money, I just move the bits that represent it).</li>
+  <li>🎓 <b>MNNIT Allahabad '24 Alum</b> — Survived the degree, now surviving the production issues.</li>
+  <li>💻 Experienced in <b>ASP.Net Core, WPF (C#/MVVM)</b> and currently whispering sweet nothings to <b>Java Spring Boot</b>.</li>
+  <li>🌱 Scaling <b>E-commerce Microservices</b> (Building systems that handle my own late-night shopping habits).</li>
+  <li>💬 Talk to me about <b>DSA, Spring Security, System Design</b>, or why it works on my machine but not in Prod.</li>  
+  <li>📫 Reach me at: <a href="mailto:ajaypatel20205014@gmail.com">ajaypatel20205014@gmail.com</a> (Response time depends on caffeine levels).</li>
 </ul>
 
-## 📌 Connect with me <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="45px">
+## 📌 Digital Footprints (Stalk me legally) <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="45px">
 
 <p align="center">            
 <a target="blank" href="https://www.linkedin.com/in/ajay-patel-60253820a/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" width="10%" style="padding:0px"/></a>
@@ -40,4 +44,10 @@
     <img alt="VS CODE" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70" height="60"/>
     <img alt="GIT" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif" width="90" height="60"/>
     <img alt="GITHUB" src="https://img.icons8.com/color/344/github--v1.png" width="70" height="80"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"I'm not lazy, I'm just on energy-saving mode while my code compiles."</i>
 </p>
