@@ -6,12 +6,14 @@
 
 ## 🚀 About Me
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" height="300px" alt="coding-gif" align="right"> 
+
 <ul>
-<li>💼 Software Engineer at Visa <br></li>
-<li>🎓 Completed my Bachelor's in Electronics and Communication Engineering from NIT Allahabad (MNNIT)<br></li>
-<li>💻 Currently working on ASP.Net Core and WPF- C#/MVVM Projects<br></li>
-<li> 💬 Talk to me about DSA, Web development, Artificial Intelligence, Open Source, Tech news<br></li>  
-<li> 📫 How to reach me?  **ajaypatel20205014@gmail.com** <br></li>
+<li>💼 Software Engineer at Visa</li>
+<li>🎓 Graduated from MNNIT Allahabad in 2024</li>
+<li>💻 Experienced in ASP.Net Core, WPF (C#/MVVM) and actively working with Java Spring Boot</li>
+<li>🌱 Currently scaling E-commerce Microservices and RESTful Backend systems</li>
+<li>💬 Talk to me about DSA, Spring Security, System Design, and Tech News</li>  
+<li>📫 Reach me at: ajaypatel20205014@gmail.com </li>
 </ul>
 
 ## 📌 Connect with me <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="45px">
@@ -25,10 +27,12 @@
 ## 🛠 Tools and Tech Stack
 
 <p align="center">
-    <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="70" height="60" />
-    <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70" height="60"/>
+    <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70" height="60" />
+    <img alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="70" height="60" />
+    <img alt="Maven" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="70" height="60" />
     <img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="70" height="60"/>
     <img alt=".NET" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="70" height="60"/>
+    <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70" height="60"/>
     <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="60"/>
     <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="70" height="60"/>
     <img alt="HTML5" src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/development/Assets/html.gif" width="70" height="60"/>
