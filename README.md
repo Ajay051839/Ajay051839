@@ -14,7 +14,7 @@
 <ul>
   <li>💼 <b>Software Engineer at Visa</b> (I don't make the money, I just move the bits that represent it).</li>
   <li>🎓 <b>MNNIT Allahabad '24 Alum</b> — Survived the degree, now surviving the production issues.</li>
-  <li>💻 Experienced in <b>ASP.Net Core, WPF (C#/MVVM)</b> and currently whispering sweet nothings to <b>Java Spring Boot</b>.</li>
+  <li>💻 Experienced in <b>JAVA, SpringBoot, H2 Database, WPF (C#,XAML/MVVM)</b> and currently whispering sweet nothings to <b>Java Spring Boot</b>.</li>
   <li>🌱 Scaling <b>E-commerce Microservices</b> (Building systems that handle my own late-night shopping habits).</li>
   <li>💬 Talk to me about <b>DSA, Spring Security, System Design</b>, or why it works on my machine but not in Prod.</li>  
   <li>📫 Reach me at: <a href="mailto:ajaypatel20205014@gmail.com">ajaypatel20205014@gmail.com</a> (Response time depends on caffeine levels).</li>
@@ -37,8 +37,6 @@
     <img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="70" height="60"/>
     <img alt=".NET" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="70" height="60"/>
     <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70" height="60"/>
-    <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="60"/>
-    <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="70" height="60"/>
     <img alt="HTML5" src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/development/Assets/html.gif" width="70" height="60"/>
     <img alt="CSS3" src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/development/Assets/css.gif" width="70" height="60"/>
     <img alt="VS CODE" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70" height="60"/>
