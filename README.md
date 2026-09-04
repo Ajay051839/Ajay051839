@@ -14,9 +14,9 @@
 <ul>
   <li>💼 <b>Software Engineer at Visa</b> (I don't make the money, I just move the bits that represent it).</li>
   <li>🎓 <b>MNNIT Allahabad '24 Alum</b> — Survived the degree, now surviving the production issues.</li>
-  <li>💻 Experienced in <b>JAVA, SpringBoot, H2 Database, WPF (C#,XAML/MVVM)</b> and currently whispering sweet nothings to <b>Java Spring Boot</b>.</li>
+  <li>💻 Experience in <b>JAVA, SpringBoot, H2 Database, JPA, Hibernate, WPF (C#,XAML/MVVM)</li>
   <li>🌱 Scaling <b>E-commerce Microservices</b> (Building systems that handle my own late-night shopping habits).</li>
-  <li>💬 Talk to me about <b>DSA, Spring Security, System Design</b>, or why it works on my machine but not in Prod.</li>  
+  <li>💬 Talk to me about <b>DSA, JAVA(Full Stack), Distributed System, System Design</b>, or why it works on my machine but not in Prod.</li>  
   <li>📫 Reach me at: <a href="mailto:ajaypatel20205014@gmail.com">ajaypatel20205014@gmail.com</a> (Response time depends on caffeine levels).</li>
 </ul>
 
