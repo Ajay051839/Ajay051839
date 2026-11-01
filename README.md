@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Coding animation" />
 </p>
 
-<h1 align="center">Hi, I'm Ajay Patel 👋</h1>
+<h1 align="center">Hi, I'm Ajay! 👋</h1>
 
 <h3 align="center">Software Engineer | Java & Spring Boot | Backend Development</h3>
 
